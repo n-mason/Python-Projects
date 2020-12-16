@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2020-08-29T22:14:16.770Z,42.5875,-124.518,2.75,2.56,ml,13,224,0.1153,0.24,uw,uw61665612,2020-10-07T05:48:29.040Z,"12 km NW of Nesika Beach, Oregon",earthquake,0.68,0.63,0.176092790642634,9,reviewed,uw,uw
+2020-07-21T23:39:16.430Z,44.9931666666667,-123.842,43.98,3.17,ml,40,116,0.03108,0.2,uw,uw61661241,2020-09-26T16:58:45.040Z,"3 km ESE of Rose Lodge, Oregon",earthquake,0.33,0.59,0.119112893322689,16,reviewed,uw,uw
+2020-05-21T05:40:26.430Z,44.9945,-123.848166666667,44.29,2.55,ml,36,124,0.02858,0.23,uw,uw61617807,2020-08-08T18:17:47.040Z,"2km SE of Rose Lodge, Oregon",earthquake,0.38,0.63,0.147825368300782,12,reviewed,uw,uw
+2020-04-30T19:38:32.620Z,42.0591666666667,-122.853833333333,4.19,3.08,ml,15,116,0.1708,0.18,uw,uw61618026,2020-07-18T21:57:06.040Z,"18km SW of Ashland, Oregon",earthquake,0.37,1.29,0.130165027008724,9,reviewed,uw,uw
+2020-04-24T22:46:03.981Z,43.7699,-125.8354,10,2.8,ml,,240,0.801,0.76,us,us60009bvs,2020-07-11T22:18:59.040Z,"131 km WNW of Barview, Oregon",earthquake,3.4,2,0.042,74,reviewed,us,us
